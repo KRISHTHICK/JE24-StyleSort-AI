@@ -1,0 +1,6 @@
+streamlit
+Pillow
+ollama
+faiss-cpu
+langchain
+tqdm
